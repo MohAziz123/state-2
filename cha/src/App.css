@@ -1,0 +1,10 @@
+.aziz{
+  text-align: center;
+  color: blue;
+}
+
+
+.image{
+  display: flex;
+  justify-content: center;
+}
